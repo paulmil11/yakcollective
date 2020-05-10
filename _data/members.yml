@@ -14,7 +14,7 @@
 - name: Paul Millerd
   partner: true
   image: paul-millerd.jpg
-  previous: McKinsey, BCG, GE, Russell Reynolds 
+  previous: McKinsey, BCG, GE
   indie_status: 3+ years
   twitter: p_millerd
   links:
@@ -22,11 +22,15 @@
       url: https://think-boundless.com/
     - title: Strategy U
       url: https://strategyu.co/
+    - title: Substack
+      url: https://boundless.substack.com/
   feeds:
     - title: Boundless
       url: https://think-boundless.com/feed/
     - title: Strategy U
       url: https://strategyu.co/feed/
+    - title: Substack
+      url: https://boundless.substack.com/feed/
 
 - name: Pamela Hobart
   partner: true
